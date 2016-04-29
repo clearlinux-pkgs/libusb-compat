@@ -4,7 +4,7 @@
 #
 Name     : libusb-compat
 Version  : 0.1.4
-Release  : 2
+Release  : 3
 URL      : http://sourceforge.net/projects/libusb/files/libusb-compat-0.1/libusb-compat-0.1.4/libusb-compat-0.1.4.tar.bz2
 Source0  : http://sourceforge.net/projects/libusb/files/libusb-compat-0.1/libusb-compat-0.1.4/libusb-compat-0.1.4.tar.bz2
 Summary  : USB access library (libusb-1.0 compat wrapper)
